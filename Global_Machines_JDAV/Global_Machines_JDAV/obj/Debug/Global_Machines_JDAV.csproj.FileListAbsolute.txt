@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\bin\Debug\Global_Machines_JDAV.exe.config
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\obj\Debug\Global_Machines_JDAV.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\bin\Debug\Global_Machines_JDAV.exe
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\bin\Debug\Global_Machines_JDAV.pdb
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\obj\Debug\Global_Machines_JDAV.exe
+c:\users\home\documents\visual studio 2015\Projects\Global_Machines_JDAV\Global_Machines_JDAV\obj\Debug\Global_Machines_JDAV.pdb
